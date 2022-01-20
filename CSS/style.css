@@ -12,10 +12,20 @@ body {
     text-align: center;
     border-bottom: red;
     font-size: 16px;
-    text-transform: capitalize;
+    text-transform: uppercase;
+    
   }
 
-  img{
+h2 {
+color: red;
+text-align: center;
+font-size: 16px;
+text-transform: uppercase;
+
+}
+
+
+img {
 
     border: red;
     border-width: 1px;
@@ -25,20 +35,29 @@ body {
 
   }
 
-  p {
+p {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
     color: black;
     border: black;
   }
-a {
+
+  p::first-letter {
+
+    color: salmon;
+  }
+
+a:visited {
     color: rgb(185, 37, 37);
     text-align: center;
+    
+
+    
   
 }
 a:hover {
-    background-color: blue;
+    background-color: rgb(101, 101, 223);
   }
 
 
