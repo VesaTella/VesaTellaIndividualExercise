@@ -34,7 +34,7 @@
 
     a:visited
     {
-    color: red;
+    color: rgb(173, 2, 2);
     }
 
 
@@ -42,8 +42,9 @@
     background-color: rgb(101, 101, 223);
     }
 
-    a{
+    a:any-link{
       background-color: rgb(114, 155, 75); 
+      
     }
     
 
