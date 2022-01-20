@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(235, 16, 224);
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    border: black;
+  }
+  
+  h1 {
+    color: rgb(219, 32, 32);
+    text-align: center;
+    border-bottom: red;
+    font-size: 16px;
+    text-transform: capitalize;
+  }
+
+  img{
+
+    border: red;
+    border-width: 1px;
+    padding: 10px;
+    width: 250px;
+    opacity: 50%;
+
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    border: black;
+  }
+a {
+    color: rgb(185, 37, 37);
+    text-align: center;
+  
+}
+a:hover {
+    background-color: blue;
+  }
+
+
+
+
+
+
